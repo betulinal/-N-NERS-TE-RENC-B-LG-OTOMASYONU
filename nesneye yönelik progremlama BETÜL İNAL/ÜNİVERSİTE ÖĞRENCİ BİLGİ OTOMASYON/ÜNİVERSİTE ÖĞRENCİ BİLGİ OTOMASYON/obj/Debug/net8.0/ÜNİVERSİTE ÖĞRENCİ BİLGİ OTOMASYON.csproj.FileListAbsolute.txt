@@ -1,0 +1,14 @@
+C:\Users\BETÜL İNAL\Desktop\nesneye yönelik progremlama BETÜL İNAL\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\bin\Debug\net8.0\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON.exe
+C:\Users\BETÜL İNAL\Desktop\nesneye yönelik progremlama BETÜL İNAL\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\bin\Debug\net8.0\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON.deps.json
+C:\Users\BETÜL İNAL\Desktop\nesneye yönelik progremlama BETÜL İNAL\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\bin\Debug\net8.0\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON.runtimeconfig.json
+C:\Users\BETÜL İNAL\Desktop\nesneye yönelik progremlama BETÜL İNAL\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\bin\Debug\net8.0\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON.dll
+C:\Users\BETÜL İNAL\Desktop\nesneye yönelik progremlama BETÜL İNAL\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\bin\Debug\net8.0\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON.pdb
+C:\Users\BETÜL İNAL\Desktop\nesneye yönelik progremlama BETÜL İNAL\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\obj\Debug\net8.0\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BETÜL İNAL\Desktop\nesneye yönelik progremlama BETÜL İNAL\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\obj\Debug\net8.0\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON.AssemblyInfoInputs.cache
+C:\Users\BETÜL İNAL\Desktop\nesneye yönelik progremlama BETÜL İNAL\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\obj\Debug\net8.0\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON.AssemblyInfo.cs
+C:\Users\BETÜL İNAL\Desktop\nesneye yönelik progremlama BETÜL İNAL\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\obj\Debug\net8.0\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON.csproj.CoreCompileInputs.cache
+C:\Users\BETÜL İNAL\Desktop\nesneye yönelik progremlama BETÜL İNAL\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\obj\Debug\net8.0\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON.dll
+C:\Users\BETÜL İNAL\Desktop\nesneye yönelik progremlama BETÜL İNAL\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\obj\Debug\net8.0\refint\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON.dll
+C:\Users\BETÜL İNAL\Desktop\nesneye yönelik progremlama BETÜL İNAL\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\obj\Debug\net8.0\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON.pdb
+C:\Users\BETÜL İNAL\Desktop\nesneye yönelik progremlama BETÜL İNAL\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\obj\Debug\net8.0\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON.genruntimeconfig.cache
+C:\Users\BETÜL İNAL\Desktop\nesneye yönelik progremlama BETÜL İNAL\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON\obj\Debug\net8.0\ref\ÜNİVERSİTE ÖĞRENCİ BİLGİ OTOMASYON.dll
